@@ -1,0 +1,20 @@
+h1 {
+    color:green;
+    text-align: center;
+    background-color: greenyellow;
+    font-size: 50px;
+}
+
+img {
+    width: 640px;
+    margin-left: 640px;
+}
+p {
+    font-size:25px;
+    text-align: center;
+    background-color: greenyellow;
+}
+body {
+    background-image: url(https://img.magnific.com/vetores-gratis/fundo-verde-aquarela_78370-1882.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: 1940px;
+}
